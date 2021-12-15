@@ -51,3 +51,18 @@
      color: black;
      background-color: white;  
   }
+  #a{
+     display: flex;
+  }
+  #c{
+   display: flex;
+}
+#b{
+   display: flex;
+}
+#d{
+   display: flex;
+}
+#e{
+   display: flex;
+}
